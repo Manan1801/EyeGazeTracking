@@ -9,7 +9,6 @@ const { width, height } = Dimensions.get('screen');
 console.log('Width:', width, 'Height:', height);
 
 
-
 // 3x3 Grid Positions for gaze labels
 const gridPositions = [
   { x: 0.1, y: 0.1, label: 'top-left' },
