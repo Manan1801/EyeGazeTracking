@@ -609,3 +609,253 @@
 2025-05-20 11:26:41.352326 - Label: top-center, File: dataset/top-center/20250520_112641_350290.jpg
 2025-05-20 11:26:42.513573 - Label: top-center, File: dataset/top-center/20250520_112642_512039.jpg
 2025-05-20 11:26:43.566300 - Label: top-center, File: dataset/top-center/20250520_112643_564243.jpg
+2025-05-20 11:35:19.961937 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:20.640186 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:21.143462 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:21.779931 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:22.312311 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:22.863574 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:23.549149 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:24.030245 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:24.581778 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:25.088021 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:25.657110 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:26.216550 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:26.815729 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:27.586959 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:28.058832 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:28.630289 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:29.157869 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:29.702696 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:30.222349 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:30.805617 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:31.380250 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:31.925939 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:32.472274 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:33.023868 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:35:33.596955 - Error processing upload: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-20 11:37:41.704917 - Label: top-left, File: dataset/top-left/20250520_113741_703091.jpg
+2025-05-20 11:37:42.494630 - Label: top-left, File: dataset/top-left/20250520_113742_493186.jpg
+2025-05-20 11:37:43.275106 - Label: top-left, File: dataset/top-left/20250520_113743_273372.jpg
+2025-05-20 11:37:44.058450 - Label: top-left, File: dataset/top-left/20250520_113744_056717.jpg
+2025-05-20 11:37:44.969976 - Label: top-left, File: dataset/top-left/20250520_113744_968370.jpg
+2025-05-20 11:37:45.885155 - Label: top-left, File: dataset/top-left/20250520_113745_883402.jpg
+2025-05-20 11:37:46.660372 - Label: top-left, File: dataset/top-left/20250520_113746_657702.jpg
+2025-05-20 11:37:47.465117 - Label: top-left, File: dataset/top-left/20250520_113747_463609.jpg
+2025-05-20 11:37:48.309006 - Label: top-left, File: dataset/top-left/20250520_113748_307707.jpg
+2025-05-20 11:37:49.156215 - Label: top-left, File: dataset/top-left/20250520_113749_154384.jpg
+2025-05-20 11:37:49.989839 - Label: top-left, File: dataset/top-left/20250520_113749_988298.jpg
+2025-05-20 11:37:50.804275 - Label: top-left, File: dataset/top-left/20250520_113750_802057.jpg
+2025-05-20 11:37:51.622647 - Label: top-left, File: dataset/top-left/20250520_113751_620485.jpg
+2025-05-20 11:37:52.392995 - Label: top-left, File: dataset/top-left/20250520_113752_391938.jpg
+2025-05-20 11:37:53.198403 - Label: top-left, File: dataset/top-left/20250520_113753_196154.jpg
+2025-05-20 11:37:53.987697 - Label: top-left, File: dataset/top-left/20250520_113753_986219.jpg
+2025-05-20 11:37:54.785941 - Label: top-left, File: dataset/top-left/20250520_113754_784311.jpg
+2025-05-20 11:37:55.529772 - Label: top-left, File: dataset/top-left/20250520_113755_528957.jpg
+2025-05-20 11:37:56.348785 - Label: top-left, File: dataset/top-left/20250520_113756_346178.jpg
+2025-05-20 11:37:57.133592 - Label: top-left, File: dataset/top-left/20250520_113757_132108.jpg
+2025-05-20 11:37:57.951920 - Label: top-left, File: dataset/top-left/20250520_113757_951150.jpg
+2025-05-20 11:37:58.776487 - Label: top-left, File: dataset/top-left/20250520_113758_774491.jpg
+2025-05-20 11:37:59.583963 - Label: top-left, File: dataset/top-left/20250520_113759_582653.jpg
+2025-05-20 11:38:00.326750 - Label: top-left, File: dataset/top-left/20250520_113800_325406.jpg
+2025-05-20 11:38:01.131553 - Label: top-left, File: dataset/top-left/20250520_113801_129049.jpg
+2025-05-20 11:40:09.517888 - Label: top-center, File: dataset/top-center/20250520_114009_516572.jpg
+2025-05-20 11:40:10.280748 - Label: top-center, File: dataset/top-center/20250520_114010_278881.jpg
+2025-05-20 11:40:11.080057 - Label: top-center, File: dataset/top-center/20250520_114011_077758.jpg
+2025-05-20 11:40:11.930925 - Label: top-center, File: dataset/top-center/20250520_114011_929154.jpg
+2025-05-20 11:40:12.818175 - Label: top-center, File: dataset/top-center/20250520_114012_816066.jpg
+2025-05-20 11:40:13.679421 - Label: top-center, File: dataset/top-center/20250520_114013_678211.jpg
+2025-05-20 11:40:14.454123 - Label: top-center, File: dataset/top-center/20250520_114014_452332.jpg
+2025-05-20 11:40:15.275280 - Label: top-center, File: dataset/top-center/20250520_114015_273213.jpg
+2025-05-20 11:40:16.085078 - Label: top-center, File: dataset/top-center/20250520_114016_083331.jpg
+2025-05-20 11:40:16.911523 - Label: top-center, File: dataset/top-center/20250520_114016_909308.jpg
+2025-05-20 11:40:17.684419 - Label: top-center, File: dataset/top-center/20250520_114017_682614.jpg
+2025-05-20 11:40:18.469736 - Label: top-center, File: dataset/top-center/20250520_114018_467348.jpg
+2025-05-20 11:40:19.259183 - Label: top-center, File: dataset/top-center/20250520_114019_256862.jpg
+2025-05-20 11:40:20.113097 - Label: top-center, File: dataset/top-center/20250520_114020_111039.jpg
+2025-05-20 11:40:21.024335 - Label: top-center, File: dataset/top-center/20250520_114021_022695.jpg
+2025-05-20 11:40:21.823189 - Label: top-center, File: dataset/top-center/20250520_114021_821500.jpg
+2025-05-20 11:40:22.633199 - Label: top-center, File: dataset/top-center/20250520_114022_629434.jpg
+2025-05-20 11:40:23.411004 - Label: top-center, File: dataset/top-center/20250520_114023_409081.jpg
+2025-05-20 11:40:24.231669 - Label: top-center, File: dataset/top-center/20250520_114024_229762.jpg
+2025-05-20 11:40:24.994062 - Label: top-center, File: dataset/top-center/20250520_114024_991795.jpg
+2025-05-20 11:40:25.804914 - Label: top-center, File: dataset/top-center/20250520_114025_803198.jpg
+2025-05-20 11:40:26.586947 - Label: top-center, File: dataset/top-center/20250520_114026_585123.jpg
+2025-05-20 11:40:27.371511 - Label: top-center, File: dataset/top-center/20250520_114027_369727.jpg
+2025-05-20 11:40:28.192522 - Label: top-center, File: dataset/top-center/20250520_114028_191107.jpg
+2025-05-20 11:40:29.035431 - Label: top-center, File: dataset/top-center/20250520_114029_032674.jpg
+2025-05-20 11:40:31.177316 - Label: top-right, File: dataset/top-right/20250520_114031_175682.jpg
+2025-05-20 11:40:32.084787 - Label: top-right, File: dataset/top-right/20250520_114032_082064.jpg
+2025-05-20 11:40:32.907449 - Label: top-right, File: dataset/top-right/20250520_114032_905565.jpg
+2025-05-20 11:40:33.683819 - Label: top-right, File: dataset/top-right/20250520_114033_681898.jpg
+2025-05-20 11:40:34.496752 - Label: top-right, File: dataset/top-right/20250520_114034_494196.jpg
+2025-05-20 11:40:35.349294 - Label: top-right, File: dataset/top-right/20250520_114035_348221.jpg
+2025-05-20 11:40:36.137387 - Label: top-right, File: dataset/top-right/20250520_114036_135578.jpg
+2025-05-20 11:40:36.986464 - Label: top-right, File: dataset/top-right/20250520_114036_984723.jpg
+2025-05-20 11:40:37.822196 - Label: top-right, File: dataset/top-right/20250520_114037_820012.jpg
+2025-05-20 11:40:38.621804 - Label: top-right, File: dataset/top-right/20250520_114038_619216.jpg
+2025-05-20 11:40:39.448734 - Label: top-right, File: dataset/top-right/20250520_114039_447757.jpg
+2025-05-20 11:40:40.263579 - Label: top-right, File: dataset/top-right/20250520_114040_261148.jpg
+2025-05-20 11:40:41.099254 - Label: top-right, File: dataset/top-right/20250520_114041_097066.jpg
+2025-05-20 11:40:41.921653 - Label: top-right, File: dataset/top-right/20250520_114041_919683.jpg
+2025-05-20 11:40:42.736608 - Label: top-right, File: dataset/top-right/20250520_114042_734182.jpg
+2025-05-20 11:40:43.530001 - Label: top-right, File: dataset/top-right/20250520_114043_527777.jpg
+2025-05-20 11:40:44.374568 - Label: top-right, File: dataset/top-right/20250520_114044_372759.jpg
+2025-05-20 11:40:45.183008 - Label: top-right, File: dataset/top-right/20250520_114045_180765.jpg
+2025-05-20 11:40:46.020486 - Label: top-right, File: dataset/top-right/20250520_114046_018765.jpg
+2025-05-20 11:40:46.923506 - Label: top-right, File: dataset/top-right/20250520_114046_921405.jpg
+2025-05-20 11:40:47.842793 - Label: top-right, File: dataset/top-right/20250520_114047_840487.jpg
+2025-05-20 11:40:48.619658 - Label: top-right, File: dataset/top-right/20250520_114048_617662.jpg
+2025-05-20 11:40:49.447628 - Label: top-right, File: dataset/top-right/20250520_114049_445752.jpg
+2025-05-20 11:40:50.303777 - Label: top-right, File: dataset/top-right/20250520_114050_301758.jpg
+2025-05-20 11:40:51.152504 - Label: top-right, File: dataset/top-right/20250520_114051_150561.jpg
+2025-05-20 11:40:54.433427 - Label: middle-left, File: dataset/middle-left/20250520_114054_431402.jpg
+2025-05-20 11:40:55.259060 - Label: middle-left, File: dataset/middle-left/20250520_114055_256686.jpg
+2025-05-20 11:40:56.052881 - Label: middle-left, File: dataset/middle-left/20250520_114056_051308.jpg
+2025-05-20 11:40:56.869735 - Label: middle-left, File: dataset/middle-left/20250520_114056_867595.jpg
+2025-05-20 11:40:57.673580 - Label: middle-left, File: dataset/middle-left/20250520_114057_671754.jpg
+2025-05-20 11:40:58.469404 - Label: middle-left, File: dataset/middle-left/20250520_114058_467142.jpg
+2025-05-20 11:40:59.323080 - Label: middle-left, File: dataset/middle-left/20250520_114059_321205.jpg
+2025-05-20 11:41:00.142975 - Label: middle-left, File: dataset/middle-left/20250520_114100_141521.jpg
+2025-05-20 11:41:01.064332 - Label: middle-left, File: dataset/middle-left/20250520_114101_061633.jpg
+2025-05-20 11:41:01.898525 - Label: middle-left, File: dataset/middle-left/20250520_114101_896456.jpg
+2025-05-20 11:41:02.685089 - Label: middle-left, File: dataset/middle-left/20250520_114102_682494.jpg
+2025-05-20 11:41:03.551769 - Label: middle-left, File: dataset/middle-left/20250520_114103_549695.jpg
+2025-05-20 11:41:04.334646 - Label: middle-left, File: dataset/middle-left/20250520_114104_332995.jpg
+2025-05-20 11:41:05.263683 - Label: middle-left, File: dataset/middle-left/20250520_114105_262749.jpg
+2025-05-20 11:41:06.050846 - Label: middle-left, File: dataset/middle-left/20250520_114106_048993.jpg
+2025-05-20 11:41:06.822312 - Label: middle-left, File: dataset/middle-left/20250520_114106_820440.jpg
+2025-05-20 11:41:07.611456 - Label: middle-left, File: dataset/middle-left/20250520_114107_609322.jpg
+2025-05-20 11:41:08.391383 - Label: middle-left, File: dataset/middle-left/20250520_114108_389675.jpg
+2025-05-20 11:41:09.168648 - Label: middle-left, File: dataset/middle-left/20250520_114109_166162.jpg
+2025-05-20 11:41:09.975970 - Label: middle-left, File: dataset/middle-left/20250520_114109_974128.jpg
+2025-05-20 11:41:10.756621 - Label: middle-left, File: dataset/middle-left/20250520_114110_754889.jpg
+2025-05-20 11:41:11.546370 - Label: middle-left, File: dataset/middle-left/20250520_114111_544685.jpg
+2025-05-20 11:41:12.347157 - Label: middle-left, File: dataset/middle-left/20250520_114112_345311.jpg
+2025-05-20 11:41:13.233796 - Label: middle-left, File: dataset/middle-left/20250520_114113_231805.jpg
+2025-05-20 11:41:14.006259 - Label: middle-left, File: dataset/middle-left/20250520_114114_003968.jpg
+2025-05-20 11:41:24.325978 - Label: center, File: dataset/center/20250520_114124_324048.jpg
+2025-05-20 11:41:25.154277 - Label: center, File: dataset/center/20250520_114125_151961.jpg
+2025-05-20 11:41:26.007773 - Label: center, File: dataset/center/20250520_114126_005716.jpg
+2025-05-20 11:41:26.811277 - Label: center, File: dataset/center/20250520_114126_809023.jpg
+2025-05-20 11:41:27.611913 - Label: center, File: dataset/center/20250520_114127_610121.jpg
+2025-05-20 11:41:28.400600 - Label: center, File: dataset/center/20250520_114128_397823.jpg
+2025-05-20 11:41:29.233243 - Label: center, File: dataset/center/20250520_114129_230921.jpg
+2025-05-20 11:41:30.019300 - Label: center, File: dataset/center/20250520_114130_016748.jpg
+2025-05-20 11:41:30.947992 - Label: center, File: dataset/center/20250520_114130_945886.jpg
+2025-05-20 11:41:31.781697 - Label: center, File: dataset/center/20250520_114131_779383.jpg
+2025-05-20 11:41:32.624899 - Label: center, File: dataset/center/20250520_114132_623107.jpg
+2025-05-20 11:41:33.410121 - Label: center, File: dataset/center/20250520_114133_407447.jpg
+2025-05-20 11:41:34.260401 - Label: center, File: dataset/center/20250520_114134_258764.jpg
+2025-05-20 11:41:35.069217 - Label: center, File: dataset/center/20250520_114135_066974.jpg
+2025-05-20 11:41:35.973983 - Label: center, File: dataset/center/20250520_114135_971353.jpg
+2025-05-20 11:41:36.766435 - Label: center, File: dataset/center/20250520_114136_763481.jpg
+2025-05-20 11:41:37.570939 - Label: center, File: dataset/center/20250520_114137_568852.jpg
+2025-05-20 11:41:38.345543 - Label: center, File: dataset/center/20250520_114138_344477.jpg
+2025-05-20 11:41:39.136893 - Label: center, File: dataset/center/20250520_114139_134255.jpg
+2025-05-20 11:41:39.962511 - Label: center, File: dataset/center/20250520_114139_958589.jpg
+2025-05-20 11:41:40.760686 - Label: center, File: dataset/center/20250520_114140_751503.jpg
+2025-05-20 11:41:41.552232 - Label: center, File: dataset/center/20250520_114141_549817.jpg
+2025-05-20 11:41:42.358390 - Label: center, File: dataset/center/20250520_114142_356315.jpg
+2025-05-20 11:41:43.235696 - Label: center, File: dataset/center/20250520_114143_233943.jpg
+2025-05-20 11:41:44.192890 - Label: center, File: dataset/center/20250520_114144_191132.jpg
+2025-05-20 11:41:53.617484 - Label: middle-right, File: dataset/middle-right/20250520_114153_615580.jpg
+2025-05-20 11:41:54.442516 - Label: middle-right, File: dataset/middle-right/20250520_114154_439949.jpg
+2025-05-20 11:41:55.250571 - Label: middle-right, File: dataset/middle-right/20250520_114155_248595.jpg
+2025-05-20 11:41:56.051294 - Label: middle-right, File: dataset/middle-right/20250520_114156_049197.jpg
+2025-05-20 11:41:56.888013 - Label: middle-right, File: dataset/middle-right/20250520_114156_886713.jpg
+2025-05-20 11:41:57.714858 - Label: middle-right, File: dataset/middle-right/20250520_114157_713296.jpg
+2025-05-20 11:41:58.519180 - Label: middle-right, File: dataset/middle-right/20250520_114158_517406.jpg
+2025-05-20 11:41:59.321226 - Label: middle-right, File: dataset/middle-right/20250520_114159_319300.jpg
+2025-05-20 11:42:00.154278 - Label: middle-right, File: dataset/middle-right/20250520_114200_152113.jpg
+2025-05-20 11:42:00.975216 - Label: middle-right, File: dataset/middle-right/20250520_114200_973858.jpg
+2025-05-20 11:42:01.820086 - Label: middle-right, File: dataset/middle-right/20250520_114201_817999.jpg
+2025-05-20 11:42:02.589474 - Label: middle-right, File: dataset/middle-right/20250520_114202_586842.jpg
+2025-05-20 11:42:03.431906 - Label: middle-right, File: dataset/middle-right/20250520_114203_430219.jpg
+2025-05-20 11:42:04.227168 - Label: middle-right, File: dataset/middle-right/20250520_114204_224411.jpg
+2025-05-20 11:42:05.057089 - Label: middle-right, File: dataset/middle-right/20250520_114205_055291.jpg
+2025-05-20 11:42:05.874060 - Label: middle-right, File: dataset/middle-right/20250520_114205_871608.jpg
+2025-05-20 11:42:06.683307 - Label: middle-right, File: dataset/middle-right/20250520_114206_679551.jpg
+2025-05-20 11:42:07.477615 - Label: middle-right, File: dataset/middle-right/20250520_114207_475366.jpg
+2025-05-20 11:42:08.324108 - Label: middle-right, File: dataset/middle-right/20250520_114208_322513.jpg
+2025-05-20 11:42:09.121326 - Label: middle-right, File: dataset/middle-right/20250520_114209_119156.jpg
+2025-05-20 11:42:09.915893 - Label: middle-right, File: dataset/middle-right/20250520_114209_913719.jpg
+2025-05-20 11:42:10.716984 - Label: middle-right, File: dataset/middle-right/20250520_114210_714415.jpg
+2025-05-20 11:42:11.521715 - Label: middle-right, File: dataset/middle-right/20250520_114211_519420.jpg
+2025-05-20 11:42:12.324904 - Label: middle-right, File: dataset/middle-right/20250520_114212_322893.jpg
+2025-05-20 11:42:13.144851 - Label: middle-right, File: dataset/middle-right/20250520_114213_144075.jpg
+2025-05-20 11:42:15.753010 - Label: bottom-left, File: dataset/bottom-left/20250520_114215_751029.jpg
+2025-05-20 11:42:16.520942 - Label: bottom-left, File: dataset/bottom-left/20250520_114216_520083.jpg
+2025-05-20 11:42:17.345174 - Label: bottom-left, File: dataset/bottom-left/20250520_114217_343404.jpg
+2025-05-20 11:42:18.128851 - Label: bottom-left, File: dataset/bottom-left/20250520_114218_127963.jpg
+2025-05-20 11:42:18.933097 - Label: bottom-left, File: dataset/bottom-left/20250520_114218_931301.jpg
+2025-05-20 11:42:19.714805 - Label: bottom-left, File: dataset/bottom-left/20250520_114219_714101.jpg
+2025-05-20 11:42:20.502706 - Label: bottom-left, File: dataset/bottom-left/20250520_114220_500432.jpg
+2025-05-20 11:42:21.377322 - Label: bottom-left, File: dataset/bottom-left/20250520_114221_375167.jpg
+2025-05-20 11:42:22.271606 - Label: bottom-left, File: dataset/bottom-left/20250520_114222_269378.jpg
+2025-05-20 11:42:23.128581 - Label: bottom-left, File: dataset/bottom-left/20250520_114223_126673.jpg
+2025-05-20 11:42:24.013626 - Label: bottom-left, File: dataset/bottom-left/20250520_114224_011096.jpg
+2025-05-20 11:42:24.904924 - Label: bottom-left, File: dataset/bottom-left/20250520_114224_902674.jpg
+2025-05-20 11:42:25.704570 - Label: bottom-left, File: dataset/bottom-left/20250520_114225_702578.jpg
+2025-05-20 11:42:26.527032 - Label: bottom-left, File: dataset/bottom-left/20250520_114226_524522.jpg
+2025-05-20 11:42:27.384703 - Label: bottom-left, File: dataset/bottom-left/20250520_114227_382738.jpg
+2025-05-20 11:42:28.234789 - Label: bottom-left, File: dataset/bottom-left/20250520_114228_232719.jpg
+2025-05-20 11:42:29.026066 - Label: bottom-left, File: dataset/bottom-left/20250520_114229_024208.jpg
+2025-05-20 11:42:29.847471 - Label: bottom-left, File: dataset/bottom-left/20250520_114229_845581.jpg
+2025-05-20 11:42:30.633354 - Label: bottom-left, File: dataset/bottom-left/20250520_114230_631581.jpg
+2025-05-20 11:42:31.411734 - Label: bottom-left, File: dataset/bottom-left/20250520_114231_409722.jpg
+2025-05-20 11:42:32.229652 - Label: bottom-left, File: dataset/bottom-left/20250520_114232_226954.jpg
+2025-05-20 11:42:33.042959 - Label: bottom-left, File: dataset/bottom-left/20250520_114233_041476.jpg
+2025-05-20 11:42:33.832664 - Label: bottom-left, File: dataset/bottom-left/20250520_114233_830793.jpg
+2025-05-20 11:42:34.604211 - Label: bottom-left, File: dataset/bottom-left/20250520_114234_602110.jpg
+2025-05-20 11:42:35.382400 - Label: bottom-left, File: dataset/bottom-left/20250520_114235_380589.jpg
+2025-05-20 11:42:39.032192 - Label: bottom-center, File: dataset/bottom-center/20250520_114239_030254.jpg
+2025-05-20 11:42:39.798301 - Label: bottom-center, File: dataset/bottom-center/20250520_114239_797439.jpg
+2025-05-20 11:42:40.578236 - Label: bottom-center, File: dataset/bottom-center/20250520_114240_575525.jpg
+2025-05-20 11:42:41.373373 - Label: bottom-center, File: dataset/bottom-center/20250520_114241_371078.jpg
+2025-05-20 11:42:42.224515 - Label: bottom-center, File: dataset/bottom-center/20250520_114242_222138.jpg
+2025-05-20 11:42:43.157750 - Label: bottom-center, File: dataset/bottom-center/20250520_114243_156986.jpg
+2025-05-20 11:42:43.994034 - Label: bottom-center, File: dataset/bottom-center/20250520_114243_991882.jpg
+2025-05-20 11:42:44.755218 - Label: bottom-center, File: dataset/bottom-center/20250520_114244_754564.jpg
+2025-05-20 11:42:45.526180 - Label: bottom-center, File: dataset/bottom-center/20250520_114245_524412.jpg
+2025-05-20 11:42:46.387703 - Label: bottom-center, File: dataset/bottom-center/20250520_114246_386969.jpg
+2025-05-20 11:42:47.413142 - Label: bottom-center, File: dataset/bottom-center/20250520_114247_412247.jpg
+2025-05-20 11:42:48.266195 - Label: bottom-center, File: dataset/bottom-center/20250520_114248_264375.jpg
+2025-05-20 11:42:49.104939 - Label: bottom-center, File: dataset/bottom-center/20250520_114249_102617.jpg
+2025-05-20 11:42:49.918685 - Label: bottom-center, File: dataset/bottom-center/20250520_114249_916150.jpg
+2025-05-20 11:42:50.710989 - Label: bottom-center, File: dataset/bottom-center/20250520_114250_709174.jpg
+2025-05-20 11:42:51.532705 - Label: bottom-center, File: dataset/bottom-center/20250520_114251_531224.jpg
+2025-05-20 11:42:52.374321 - Label: bottom-center, File: dataset/bottom-center/20250520_114252_372110.jpg
+2025-05-20 11:42:53.295516 - Label: bottom-center, File: dataset/bottom-center/20250520_114253_293607.jpg
+2025-05-20 11:42:54.353713 - Label: bottom-center, File: dataset/bottom-center/20250520_114254_351436.jpg
+2025-05-20 11:42:55.194520 - Label: bottom-center, File: dataset/bottom-center/20250520_114255_192141.jpg
+2025-05-20 11:42:56.065574 - Label: bottom-center, File: dataset/bottom-center/20250520_114256_063409.jpg
+2025-05-20 11:42:56.821128 - Label: bottom-center, File: dataset/bottom-center/20250520_114256_819246.jpg
+2025-05-20 11:42:57.646794 - Label: bottom-center, File: dataset/bottom-center/20250520_114257_644630.jpg
+2025-05-20 11:42:58.458889 - Label: bottom-center, File: dataset/bottom-center/20250520_114258_457097.jpg
+2025-05-20 11:42:59.253932 - Label: bottom-center, File: dataset/bottom-center/20250520_114259_252045.jpg
+2025-05-20 11:43:02.574098 - Label: bottom-right, File: dataset/bottom-right/20250520_114302_571946.jpg
+2025-05-20 11:43:03.441243 - Label: bottom-right, File: dataset/bottom-right/20250520_114303_439451.jpg
+2025-05-20 11:43:04.256597 - Label: bottom-right, File: dataset/bottom-right/20250520_114304_254721.jpg
+2025-05-20 11:43:05.087500 - Label: bottom-right, File: dataset/bottom-right/20250520_114305_086504.jpg
+2025-05-20 11:43:06.004352 - Label: bottom-right, File: dataset/bottom-right/20250520_114306_003286.jpg
+2025-05-20 11:43:06.805054 - Label: bottom-right, File: dataset/bottom-right/20250520_114306_802389.jpg
+2025-05-20 11:43:07.585772 - Label: bottom-right, File: dataset/bottom-right/20250520_114307_583024.jpg
+2025-05-20 11:43:08.390831 - Label: bottom-right, File: dataset/bottom-right/20250520_114308_388119.jpg
+2025-05-20 11:43:09.192654 - Label: bottom-right, File: dataset/bottom-right/20250520_114309_191172.jpg
+2025-05-20 11:43:10.095259 - Label: bottom-right, File: dataset/bottom-right/20250520_114310_093779.jpg
+2025-05-20 11:43:10.905112 - Label: bottom-right, File: dataset/bottom-right/20250520_114310_902874.jpg
+2025-05-20 11:43:11.724071 - Label: bottom-right, File: dataset/bottom-right/20250520_114311_722153.jpg
+2025-05-20 11:43:12.569342 - Label: bottom-right, File: dataset/bottom-right/20250520_114312_566498.jpg
+2025-05-20 11:43:13.451879 - Label: bottom-right, File: dataset/bottom-right/20250520_114313_449995.jpg
+2025-05-20 11:43:14.258988 - Label: bottom-right, File: dataset/bottom-right/20250520_114314_257746.jpg
+2025-05-20 11:43:15.058820 - Label: bottom-right, File: dataset/bottom-right/20250520_114315_056997.jpg
+2025-05-20 11:43:15.931828 - Label: bottom-right, File: dataset/bottom-right/20250520_114315_929290.jpg
+2025-05-20 11:43:16.773237 - Label: bottom-right, File: dataset/bottom-right/20250520_114316_771435.jpg
+2025-05-20 11:43:17.611405 - Label: bottom-right, File: dataset/bottom-right/20250520_114317_609470.jpg
+2025-05-20 11:43:18.420130 - Label: bottom-right, File: dataset/bottom-right/20250520_114318_418857.jpg
+2025-05-20 11:43:19.224786 - Label: bottom-right, File: dataset/bottom-right/20250520_114319_222780.jpg
+2025-05-20 11:43:20.027943 - Label: bottom-right, File: dataset/bottom-right/20250520_114320_026375.jpg
+2025-05-20 11:43:20.836555 - Label: bottom-right, File: dataset/bottom-right/20250520_114320_833887.jpg
+2025-05-20 11:43:21.664023 - Label: bottom-right, File: dataset/bottom-right/20250520_114321_661728.jpg
+2025-05-20 11:43:22.488831 - Label: bottom-right, File: dataset/bottom-right/20250520_114322_487841.jpg
