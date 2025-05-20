@@ -19,7 +19,7 @@ const gridPositions = [
   { x: 0.9, y: 0.9, label: 'bottom-right' },
 ];
 
-const IMAGES_PER_TARGET = 25;
+const IMAGES_PER_TARGET = 2;
 const CAPTURE_INTERVAL_MS = 200;
 
 export default function App() {
