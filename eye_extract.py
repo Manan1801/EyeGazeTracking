@@ -6,16 +6,18 @@ import numpy as np
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(static_image_mode=True, max_num_faces=1, refine_landmarks=True)
 
-
+# Landmarks around the eye region
 LEFT_EYE_LANDMARKS = [33, 133, 160, 159, 158, 157, 173, 246]
 RIGHT_EYE_LANDMARKS = [362, 263, 387, 386, 385, 384, 398, 466]
 
-def extract_eye_region(image, landmarks, eye_landmarks):
+def extract_eye_region(image, landmarks, eye_landmarks, padding=30):
     h, w, _ = image.shape
     eye_points = [(int(landmarks[idx].x * w), int(landmarks[idx].y * h)) for idx in eye_landmarks]
     x_coords, y_coords = zip(*eye_points)
-    x_min, x_max = max(min(x_coords) - 5, 0), min(max(x_coords) + 5, w)
-    y_min, y_max = max(min(y_coords) - 5, 0), min(max(y_coords) + 5, h)
+    x_min = max(min(x_coords) - padding, 0)
+    x_max = min(max(x_coords) + padding, w)
+    y_min = max(min(y_coords) - padding, 0)
+    y_max = min(max(y_coords) + padding, h)
     eye_img = image[y_min:y_max, x_min:x_max]
     return eye_img if eye_img.size > 0 else None
 
@@ -43,21 +45,20 @@ def process_and_save_eyes(input_dir, output_dir):
                 continue
 
             landmarks = results.multi_face_landmarks[0].landmark
-            left_eye = extract_eye_region(image, landmarks, LEFT_EYE_LANDMARKS)
-            right_eye = extract_eye_region(image, landmarks, RIGHT_EYE_LANDMARKS)
+            left_eye = extract_eye_region(image, landmarks, LEFT_EYE_LANDMARKS, padding=30)
+            right_eye = extract_eye_region(image, landmarks, RIGHT_EYE_LANDMARKS, padding=30)
 
             if left_eye is not None and right_eye is not None:
-                # Resize both eyes to same height
+                # Resize to same height for horizontal concatenation
                 target_height = min(left_eye.shape[0], right_eye.shape[0])
                 left_eye = cv2.resize(left_eye, (left_eye.shape[1], target_height))
                 right_eye = cv2.resize(right_eye, (right_eye.shape[1], target_height))
 
-                # Match channel sizes
-                if len(left_eye.shape) != len(right_eye.shape):
-                    if len(left_eye.shape) == 2:
-                        left_eye = cv2.cvtColor(left_eye, cv2.COLOR_GRAY2BGR)
-                    if len(right_eye.shape) == 2:
-                        right_eye = cv2.cvtColor(right_eye, cv2.COLOR_GRAY2BGR)
+                # Match channels
+                if len(left_eye.shape) == 2:
+                    left_eye = cv2.cvtColor(left_eye, cv2.COLOR_GRAY2BGR)
+                if len(right_eye.shape) == 2:
+                    right_eye = cv2.cvtColor(right_eye, cv2.COLOR_GRAY2BGR)
 
                 eyes_combined = cv2.hconcat([left_eye, right_eye])
                 save_path = os.path.join(save_label_path, filename)
