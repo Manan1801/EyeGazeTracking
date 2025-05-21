@@ -19,7 +19,7 @@ const gridPositions = [
   { x: 0.9, y: 0.9, label: 'bottom-right' },
 ];
 
-const IMAGES_PER_TARGET = 2;
+const IMAGES_PER_TARGET = 1;
 const CAPTURE_INTERVAL_MS = 200;
 
 export default function App() {
@@ -49,7 +49,7 @@ export default function App() {
           label: label,
         };
 
-        await axios.post('https://ac8d-14-139-98-164.ngrok-free.app/upload', payload);
+        await axios.post('https://5815-14-139-98-164.ngrok-free.app/upload', payload);
         console.log(`Uploaded image ${captureCountRef.current + 1}/${IMAGES_PER_TARGET} for label: ${label}`);
       } catch (error) {
         console.error('Upload failed:', error);
