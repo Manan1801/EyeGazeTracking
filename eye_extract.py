@@ -67,6 +67,6 @@ def process_and_save_eyes(input_dir, output_dir):
                 print(f"Skipping: Couldn't extract eyes properly from {img_path}")
 
 if __name__ == '__main__':
-    input_dataset = 'dataset'
-    output_dataset = 'cropped_dataset'
+    input_dataset = 'test_dataset'
+    output_dataset = 'test_cropped_dataset'
     process_and_save_eyes(input_dataset, output_dataset)

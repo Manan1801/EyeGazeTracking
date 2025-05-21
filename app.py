@@ -7,7 +7,7 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app)  # Allow requests from mobile app
 
-DATASET_DIR = 'dataset'
+DATASET_DIR = 'test_dataset'
 LOG_FILE = 'upload_log.txt'
 
 @app.route('/upload', methods=['POST'])
