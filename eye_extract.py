@@ -61,7 +61,7 @@ def process_and_save_eyes(input_dir, output_dir):
                 cv2.imwrite(save_path, combined)
             else:
                 print(f"Eye extraction failed for {img_path}")
-
+        
 if __name__ == '__main__':
     input_dataset = 'test_dataset'
     output_dataset = 'test_cropped_dataset'
